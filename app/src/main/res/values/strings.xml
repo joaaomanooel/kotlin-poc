@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin POC</string>
+    <string name="salve">Salve Salve!</string>
+</resources>
